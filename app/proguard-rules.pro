@@ -1,0 +1,3 @@
+-keep class com.budgetapp.data.local.entity.** { *; }
+-keep class com.budgetapp.domain.model.** { *; }
+-keepattributes *Annotation*
